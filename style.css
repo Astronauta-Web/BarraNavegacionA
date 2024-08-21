@@ -24,6 +24,10 @@ li {
   justify-content: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 /*Se agregan las propiedades para que cuando se pase el cursor
 provoque el cambio de colores*/
 .one:hover, .two:hover, .three:hover {
